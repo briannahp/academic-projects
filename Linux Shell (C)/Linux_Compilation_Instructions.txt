@@ -1,0 +1,4 @@
+Linux Compilation Instructions:
+
+gcc msh.c -o msh
+./msh
