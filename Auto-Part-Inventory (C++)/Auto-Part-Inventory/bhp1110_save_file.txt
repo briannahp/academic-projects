@@ -1,0 +1,8 @@
+battery mybattery 98 83.330000 8 9 99 23 1
+
+ww myww 324 7.990000 9 curved 5
+
+frame myframe 8271 999.990000 honda 1
+
+tire mytire 111 43.550000 all 9 98 8 veryfast standard 9
+

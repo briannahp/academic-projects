@@ -1,0 +1,5 @@
+On a Linux terminal:
+
+-Navigate to the folder in this directory
+-Type in the command "make"
+-Type in the command "./a.out"

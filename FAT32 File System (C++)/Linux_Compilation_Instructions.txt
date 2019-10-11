@@ -1,0 +1,4 @@
+Linux Compilation Instructions:
+
+g++ mfs.cpp -o mfs
+./mfs
