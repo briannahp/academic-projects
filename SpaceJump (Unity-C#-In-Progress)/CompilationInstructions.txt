@@ -1,3 +1,0 @@
-From Unity:
-
-Open Existing Project -> Select the Spacejump folder
